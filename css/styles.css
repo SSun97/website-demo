@@ -149,3 +149,27 @@ a {
 		padding-left: 0;
 	}
 }
+
+/* Icons */
+
+.icon {
+	width: 40px;
+	height: 40px;
+}
+
+.icon--primary {
+	fill: var(--color-primary);
+}
+
+.icon-container {
+	background-color: #f3f9fa;
+	width: 64px;
+	height: 64px;
+	border-radius: 100%;
+	/* span is an inline element and width and height has no control on inline element */
+	/* do not use block because maybe we will use it next to an elememnt and we do not want an line break there  */
+	/* change inline-block to inlineflex to center the image */
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+}
