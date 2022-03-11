@@ -5,8 +5,9 @@ Nowadays, developers are rarely using pure HTML and CSS to make websites, since 
 https://holbertonwaves.netlify.app/
 
 Destop screen
-!()
+![alt text](https://github.com/SSun97/website-demo/blob/main/pic1.png)
+
 
 Mobile devices screen
-!
+![alt text](https://github.com/SSun97/website-demo/blob/main/pic1.png)
 
