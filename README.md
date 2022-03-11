@@ -13,6 +13,7 @@ Mobile devices screen
 
 # Author 🛠️
 - Simon Sun - https://github.com/SSun97
+- Linkedin - https://www.linkedin.com/in/ssun97/
 
 # Licence 🔒
 - This project is licensed under the MIT License
