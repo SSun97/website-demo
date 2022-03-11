@@ -1,7 +1,7 @@
 # This project is for combining the knowledges of HTML CSS to make a highly responsive webpage
 Nowadays, developers are rarely using pure HTML and CSS to make websites, since many frontend frameworks such as React, Angular, Vue are alternatives and they could improve the development efficiency significantly. However, it is still vital for a developer to understand how HTML, CSS work and the mechanism of building a responsive website. 
 
-## The demo is deployed on Netlify
+## The demo is deployed on Netlify 👀
 https://holbertonwaves.netlify.app/
 
 Destop screen
@@ -11,3 +11,8 @@ Destop screen
 Mobile devices screen
 ![alt text](https://github.com/SSun97/website-demo/blob/main/pic2.png)
 
+# Author 🛠️
+- Simon Sun - https://github.com/SSun97
+
+# Licence 🔒
+- This project is licensed under the MIT License
