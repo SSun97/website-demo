@@ -9,5 +9,5 @@ Destop screen
 
 
 Mobile devices screen
-![alt text](https://github.com/SSun97/website-demo/blob/main/pic1.png)
+![alt text](https://github.com/SSun97/website-demo/blob/main/pic2.png)
 
